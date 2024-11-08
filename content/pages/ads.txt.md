@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Ads.txt
 sections: []
 slug: ads.txt
 isDraft: false
