@@ -7,7 +7,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: google.com, pub-6948775699542400, DIRECT, f08c47fec0942fa0.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
