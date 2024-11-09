@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: google.com, pub-6948775699542400, DIRECT, f08c47fec0942fa0
       color: text-dark
       styles:
         self:
