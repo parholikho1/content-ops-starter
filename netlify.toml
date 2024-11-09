@@ -1,5 +1,6 @@
 [build]
   command = "npm run build"
+  command = "yarn build && touch ./public/Ads.txt && echo "google.com, pub-7660824024567312, DIRECT, f08c47fec0942fa0" >> ./public/Ads.txt"
   publish = ".next"
   functions = ".netlify/functions"
 
